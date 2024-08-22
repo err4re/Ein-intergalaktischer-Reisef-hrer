@@ -24,9 +24,9 @@ Kurzes Update:
 
 Als nächstes aktivieren wir die neue Umgebung, das heißt wir wechseln in diese Umgebung:
 
-`conda activate akademie2022`
+`conda activate akademie2024`
 
-Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen. Dann kann es jetzt mit den interessanten packages (Erweiterung für Anaconda und/oder Python) los gehen.
+Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2024)` sehen. Dann kann es jetzt mit den interessanten packages (Erweiterung für Anaconda und/oder Python) los gehen.
 
 Wir beginnen mit [Jupyter Lab](https://jupyter.org), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. 
 
