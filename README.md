@@ -6,7 +6,7 @@ Für die Installation empfehlen wir euch:
 1.  [miniconda](https://docs.anaconda.com/miniconda/miniconda-install/) (*empfohlen*) oder [Anaconda](https://www.anaconda.com/download) (mit GUI "graphical user interface")
 2.   [jupyter lab](https://jupyter.org/) (Editor)
 
-Wer lieber seine Lieblings-IDE verwenden möchten kann das (auf eigene Gefahr hin ;)) gerne tun. Wir werden Python verwenden, weil dies in der Physik die mit Abstand am stärksten verbreitete und sehr mächtige Programmiersprache ist.
+Wer lieber seine Lieblings-IDE verwenden möchten kann das (auf eigene Gefahr hin ;) ) gerne tun. Wir werden Python verwenden, weil dies in der Physik die mit Abstand am stärksten verbreitete und sehr mächtige Programmiersprache ist.
 
 ### Environment
 
