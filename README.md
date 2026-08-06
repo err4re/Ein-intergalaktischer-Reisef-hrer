@@ -12,11 +12,22 @@ Wer lieber seine Lieblings-IDE verwenden möchten kann das (auf eigene Gefahr hi
 
 Nachdem ihr miniconda oder Anaconda und damit :snake: installiert habt, ist es Zeit ein environment (virtuelle Umgebung) für unseren Kurs zu erstellen. Das könnt ihr in der GUI erledigen oder bequem im Terminal *(empfohlen)*, fragt uns gerne nach Hilfe.
 
-Los geht's, öffnet das (miniconda oder Anaconda) Terminal und verwendet die folgenden Befehle. Ihr könnt das Terminal einfach in der Suchleiste suchen. Und dann:
+Los geht's, öffnet das (miniconda oder Anaconda) Terminal und verwendet die folgenden Befehle. Ihr könnt das Terminal einfach in der Suchleiste suchen.
+
+
+`conda --version`     # z. B. conda 25.x.x
+`python --version`    # z. B. Python 3.13.x
+`where python`        # Windows: sollte im miniconda3-Pfad liegen
+`which python`        # macOS/Linux
+
+
+Und dann:
 
 `conda create -n akademie2024 python=3`
 
 Hier erstellen wir eine Umgebung mit dem Namen `akademie2024` und verwenden in dieser Umgebung Python 3 (niemand will mehr Python 2 und so sind wir uns sicher, dass es nicht peinlich wird). Ihr könnte gerne auch einen anderen Namen als `akademie2024` verwenden, das liegt bei euch. Aber jetzt ist es wahrscheinlich zu spät :joy:
+
+**conda-Umgebung**:	Ein isolierter Ordner mit eigener Python-Version und eigenen Paketen. Pro Projekt/Kurs/Idee eine Umgebung.
 
 Kurzes Update:
 
